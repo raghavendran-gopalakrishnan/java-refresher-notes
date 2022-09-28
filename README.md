@@ -1,6 +1,6 @@
 # Java refresher Masterclass / Notes
 
-![[Java_Logo.png]]
+![Java_Logo](https://user-images.githubusercontent.com/11929432/192711670-224a2537-6130-43aa-9c47-2183c0c21d78.png)
 
 Hello there, if you are reading this you must be a fellow senior Java developer who kind of lost touch of fundamentals -> advanced Core Java concepts and best practices while you were busy with your day to day work. Well, you are not alone. 
 
