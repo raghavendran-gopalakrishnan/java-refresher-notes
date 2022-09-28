@@ -19,4 +19,4 @@ I have a vague idea on how this is going to end up with :
 This space will be updated to have Table of Contents as and when this repo grows gradually.
 
 ### Index
--  [History, the What's and the Why's of Java](Chapter 1.md)
+-  [History, the What's and the Why's of Java](https://github.com/raghavendran-gopalakrishnan/java-refresher-notes/blob/main/Chapter%201.md)
